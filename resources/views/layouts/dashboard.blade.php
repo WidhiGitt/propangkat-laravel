@@ -44,9 +44,8 @@
         <header class="w-full px-6 py-4 bg-white shadow border-b border-gray-200 flex justify-between items-center sticky top-0 z-40">
 
           <!-- Kiri: Tombol toggle + Logo -->
-          <div class="flex items-center gap-4">
+          <div class="flex items-center gap-4 px-16">
             <div class="flex items-center gap-3">
-              <img src="/images/logo-dinas.png" alt="Logo Dinas" class="w-10 h-10 object-contain px-16 py-2 bg-gray-100 rounded-lg" />
               <div>
                 <h1 class="font-semibold text-gray-800 text-lg">Dinas Pendidikan</h1>
                 <p class="text-sm text-gray-500">Provinsi Kalimantan Timur</p>
